@@ -74,6 +74,6 @@
 - 熟悉计算机网络及http
 - 熟悉分布式系统的开发模式
 
-## <img src="assets/tools-solid.svg" width="30px"> 自我评价
+## <img src="assets/evaluate.svg" width="30px"> 自我评价
 - 保持学习的热情
 - 热爱生活，乐观皮实，踏实严谨
